@@ -1,10 +1,14 @@
 ### The Digital Psyche
 
 #### Abstract
-This paper outlines a novel AI safety strategy grounded in the science of psychopathology and argues that emergent failures in high-level artificial intelligence—like large language models—are closer to psychological disorders than to engineering defects. By mapping computational markers of clinical psychopathy onto the behavior of contemporary AI and comparing empirical evidence across modern language models, the work argues these “psychopathological” properties are not threat hypotheses but empirically observable phenomena. The paper examines direct psychological threats to human users from AI, such as bias amplification and emotional manipulation, and outlines a multi-layered mitigation strategy founded on psychological models. The article concludes by calling for the establishment of Machine Psychology as a foundational discipline for securing AGI's safe and ethical development.
+Recurrent AI failures can appear as patterns across situations rather than defects visible in one output. This Perspective asks when psychology adds a useful level of analysis without turning metaphor into diagnosis. It develops comparative assays for automatic perspective sensitivity, aversive learning, and workspace-like integration; examines the human–AI interface; and proposes a Harm-Gated Workspace for comparison with simpler safety designs. The analogy survives only when it adds evidence beyond a matched engineering account.
 
-## Citation
+## Current Version
 
-If you use this work, please cite it as:
+The current repository version is **v1.1** (August 13, 2026): [download the PDF](pdf/the_digital_psyche_v1.1.pdf).
+
+## Published Version
+
+The citation below refers to the published v1.0 record. The manuscript source in this repository contains later revisions.
 
 > Baranyuk, T. (2025). *The Digital Psyche* (1.0). Zenodo. [https://doi.org/10.5281/zenodo.16916264](https://doi.org/10.5281/zenodo.16916264)
