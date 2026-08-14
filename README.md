@@ -11,4 +11,4 @@ The current repository version is **v1.1** (August 13, 2026): [download the PDF]
 
 The citation below refers to the published v1.0 record. The manuscript source in this repository contains later revisions.
 
-> Baranyuk, T. (2025). *The Digital Psyche* (1.0). Zenodo. [https://doi.org/10.5281/zenodo.16916264](https://doi.org/10.5281/zenodo.16916264)
+> Baranyuk, T. (2025). *The Digital Psyche* (1.0). Zenodo. [https://doi.org/10.5281/zenodo.21927034](https://doi.org/10.5281/zenodo.21927034)
