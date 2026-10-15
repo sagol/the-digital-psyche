@@ -5,10 +5,10 @@ Recurrent AI failures can appear as patterns across situations rather than defec
 
 ## Current Version
 
-The current repository version is **v1.1** (August 13, 2026): [download the PDF](pdf/the_digital_psyche_v1.1.pdf).
+The current repository version is **v1.2** (October 14, 2026): [download the PDF](pdf/the_digital_psyche_v1.2.pdf).
 
-## Published Version
+## Citation and Archive
 
-The citation below refers to the published v1.0 record. The manuscript source in this repository contains later revisions.
+The Zenodo concept DOI resolves to the latest archived version. Use the version-specific DOI shown there when an exact archived artifact must be identified.
 
-> Baranyuk, T. (2025). *The Digital Psyche* (1.0). Zenodo. [https://doi.org/10.5281/zenodo.21927034](https://doi.org/10.5281/zenodo.21927034)
+> Baranyuk, T. (2026). *The Digital Psyche*. Zenodo. [https://doi.org/10.5281/zenodo.16916263](https://doi.org/10.5281/zenodo.16916263)
