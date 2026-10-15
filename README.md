@@ -5,7 +5,7 @@ Recurrent AI failures can appear as patterns across situations rather than defec
 
 ## Current Version
 
-The current repository version is **v1.2** (August 14, 2026): [download the PDF](pdf/the_digital_psyche_v1.2.pdf).
+The current repository version is **v1.2** (October 14, 2026): [download the PDF](pdf/the_digital_psyche_v1.2.pdf).
 
 ## Citation and Archive
 
